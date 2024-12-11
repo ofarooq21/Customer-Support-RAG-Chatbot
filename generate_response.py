@@ -3,7 +3,7 @@
 from hybrid_search import hybrid_search
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='OPENAI_API_KEY')
 
 # Set your OpenAI API key directly
 
