@@ -8,7 +8,7 @@ from ragas import SingleTurnSample
 
 
 # Set your OpenAI API key
-os.environ['OPENAI_API_KEY'] = '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'  
+os.environ['OPENAI_API_KEY'] = 'OPENAI_API_KEY'  
 
 def load_interactions(file_path):
     interactions = []
